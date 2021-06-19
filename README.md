@@ -1,5 +1,6 @@
 ### Hai
 
+- Komunitas: https://t.me/botindonesia
 - Blog: https://blog.banghasan.com
 - Youtube: https://www.youtube.com/bangHasans
 
