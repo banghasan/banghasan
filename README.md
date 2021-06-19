@@ -4,9 +4,10 @@
 - Blog: https://blog.banghasan.com
 - Youtube: https://www.youtube.com/bangHasans
 
+![Youtube Channel](https://img.shields.io/badge/bangHasans-red?&style=social&logo=youtube)
+![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCttb2hoQ07DOzsJjeLqtWsA)
 ![Twitter Follow](https://img.shields.io/twitter/follow/hasanudinhs?style=social)
 ![GitHub followers](https://img.shields.io/github/followers/banghasan?style=social)
-![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCttb2hoQ07DOzsJjeLqtWsA)
 
 <!--
 **banghasan/banghasan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
