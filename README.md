@@ -1,14 +1,24 @@
+
+## Stats
+
 ![Top Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=banghasan&layout=compact)
-
-### Hai
-
-- Blog: https://blog.banghasan.com
-- Youtube: https://www.youtube.com/bangHasans
 
 ![Youtube Channel](https://img.shields.io/badge/bangHasans-red?&style=social&logo=youtube)
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCttb2hoQ07DOzsJjeLqtWsA)
 ![Twitter Follow](https://img.shields.io/twitter/follow/hasanudinhs?style=social)
 ![GitHub followers](https://img.shields.io/github/followers/banghasan?style=social)
+
+
+## Personal
+
+**Assalamu'alaikum..**
+
+<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="70px"> 
+
+I can't type beautiful words here. But I can write useful works. _Hopefully_...
+
+- Blog: https://blog.banghasan.com
+- Youtube: https://www.youtube.com/bangHasans
 
 ## Organization
 
@@ -19,9 +29,11 @@
 
 ### Community
 
+- [myQuran](https://myquran.org)
 - [Telegram Bot Indonesia](https://t.me/botindonesia)
 - [Telegram userbot Indonesia](https://t.me/ubotindonesia)
 - [Telegram botPHP](https://t.me/botindonesia)
+
 
 
 
