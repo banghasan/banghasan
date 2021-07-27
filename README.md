@@ -13,7 +13,7 @@
 
 **Assalamu'alaikum..**
 
-<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="70px"> 
+![hello](https://i.pinimg.com/originals/66/ae/f3/66aef3b5231b5c412c4c77b3e2298ded.gif)
 
 I can't type beautiful words here. But I can write useful works. _Hopefully_...
 
