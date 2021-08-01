@@ -22,6 +22,18 @@ I can't type beautiful words here. But I can write useful works. _Hopefully_...
 
 ## Personal
 
+### Language
+
+- &#9745; Javascript
+- &#9745; PHP
+- &#9745; Javanese :-)
+- &#9745; Indonesian :-)
+- &#9744; English
+- &#9744; Golang
+- &#9745; Regexp
+
+### Repository
+
 - [Git bangHasan](https://git.banghasan.com/)
 
 ## Organization
@@ -33,10 +45,10 @@ I can't type beautiful words here. But I can write useful works. _Hopefully_...
 
 ### Community
 
-- [myQuran](https://myquran.org)
-- [Telegram Bot Indonesia](https://t.me/botindonesia)
-- [Telegram userbot Indonesia](https://t.me/ubotindonesia)
-- [Telegram botPHP](https://t.me/botindonesia)
+- &#9745; [myQuran](https://myquran.org)
+- &#9745; [Telegram Bot Indonesia](https://t.me/botindonesia)
+- &#9745; [Telegram userbot Indonesia](https://t.me/ubotindonesia)
+- &#9745; [Telegram botPHP](https://t.me/botindonesia)
 
 
 
