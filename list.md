@@ -1,3 +1,9 @@
+## Cocok?
+
+- &#09745;
+- &#10062;
+- &#09949;
+
 ## Symbol List
 
 Referensi: [Unicode Char](https://www.rapidtables.com/code/text/unicode-characters.html)
