@@ -26,11 +26,13 @@ I can't type beautiful words here. But I can write useful works. _Hopefully_...
 
 - &#9745; Javascript
 - &#9745; PHP
-- &#9745; Javanese :-)
-- &#9745; Indonesian :-)
-- &#9744; English
-- &#9744; Golang
 - &#9745; Regexp
+- &#9745; Javanese 
+- &#9745; Indonesian
+- &#9744; English
+- &#9744; Arabic
+- &#9744; Golang
+- &#9746; Russky
 
 ### Repository
 
