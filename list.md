@@ -1,5 +1,7 @@
 ## Symbol List
 
+Referensi: [Unicode Char](https://www.rapidtables.com/code/text/unicode-characters.html)
+
 - &#9744; `&#9744;`
 - &#9745; `&#9745;`
 - &#9746; `&#9746;`
