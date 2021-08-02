@@ -2,6 +2,9 @@
 
 Referensi: [Unicode Char](https://www.rapidtables.com/code/text/unicode-characters.html)
 
+- &#9989; `&#9989;`
+- &#10060; `&#10060;`
+- &#10062; `&#10062;`
 - &#9744; `&#9744;`
 - &#9745; `&#9745;`
 - &#9746; `&#9746;`
