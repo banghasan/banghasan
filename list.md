@@ -25,3 +25,8 @@ Referensi: [Unicode Char](https://www.rapidtables.com/code/text/unicode-characte
 - &#9621;&#9616;
 - &#9617;&#9618;&#9619;
 - &#9620;
+
+## Checkbox
+
+- [ ] uncheck
+- [x] checked
