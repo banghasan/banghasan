@@ -1,5 +1,7 @@
 ## Personal
 
+<img align='right' src="https://i.pinimg.com/originals/66/ae/f3/66aef3b5231b5c412c4c77b3e2298ded.gif" width="230" title="Nyantaaai mas brok!">
+
 ![Youtube Channel](https://img.shields.io/badge/bangHasans-red?&style=social&logo=youtube)
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCttb2hoQ07DOzsJjeLqtWsA)
 ![Twitter Follow](https://img.shields.io/twitter/follow/hasanudinhs?style=social)
@@ -7,12 +9,10 @@
 
 **Assalamu'alaikum..**
 
-![hello](https://i.pinimg.com/originals/66/ae/f3/66aef3b5231b5c412c4c77b3e2298ded.gif)
-
 I can't type beautiful words here. But I can write useful works. _Hopefully_...
 
-- Blog: https://blog.banghasan.com
-- Youtube: https://www.youtube.com/bangHasans
+- 🔖 Site: https://www.banghasan.com
+- 🎬 Youtube: https://www.youtube.com/bangHasans
 
 ## Update
 
