@@ -55,3 +55,8 @@ I can't type beautiful words here. But I can write useful works. _Hopefully_...
 - &#9745; [Telegram Bot Indonesia](https://t.me/botindonesia)
 - &#9745; [Telegram userbot Indonesia](https://t.me/ubotindonesia)
 - &#9745; [Telegram botPHP](https://t.me/botindonesia)
+
+## Stats
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
