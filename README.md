@@ -14,7 +14,9 @@ I can't type beautiful words here. But I can write useful works. _Hopefully_...
 - Blog: https://blog.banghasan.com
 - Youtube: https://www.youtube.com/bangHasans
 
-## Blog Update
+## Update
+
+### Blog
 <!-- BLOG-POST-LIST:START -->
 - [Aplikasi Camera Terbaik di Linux 2021](https://www.banghasan.com/post/2021/09/03/aplikasi-camera-terbaik/)
 - [Mendengarkan Mic ke Speaker](https://www.banghasan.com/post/2021/09/02/dengerin-mic-ke-speaker/)
@@ -22,6 +24,11 @@ I can't type beautiful words here. But I can write useful works. _Hopefully_...
 - [Wuzz - Inspeksi HTTP secara Interaktif](https://www.banghasan.com/post/2021/08/30/wuzz-inspeksi-http/)
 - [tegursapa - diskusi komentar untuk website](https://www.banghasan.com/post/2021/08/19/tegursapa/)
 <!-- BLOG-POST-LIST:END -->
+
+### Youtube
+
+<!-- Youtube:START -->
+<!-- Youtube:END -->
 
 ### Language
 
