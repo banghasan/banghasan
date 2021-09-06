@@ -23,6 +23,8 @@ I can't type beautiful words here. But I can write useful works. _Hopefully_...
 - [dekat itu ...](https://www.banghasan.com/post/2021/09/01/hati-yang-dekat/)
 - [Wuzz - Inspeksi HTTP secara Interaktif](https://www.banghasan.com/post/2021/08/30/wuzz-inspeksi-http/)
 - [tegursapa - diskusi komentar untuk website](https://www.banghasan.com/post/2021/08/19/tegursapa/)
+- [Indonesia Merdeka?](https://www.banghasan.com/post/2021/08/17/indonesia-merdeka-76th/)
+- [Postingan Pertamax](https://www.banghasan.com/post/2021/08/15/pertamax/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Youtube
