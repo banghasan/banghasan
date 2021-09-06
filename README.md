@@ -67,7 +67,7 @@ I can't type beautiful words here. But I can write useful works. _Hopefully_...
 
 ## Stats
 
-![Metrics](https://metrics.lecoq.io/banghasan?template=classic&base.header=0&languages=1&introduction=1&habits=1&projects=1&activity=1&achievements=1&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&introduction.title=true&habits.from=200&habits.days=14&habits.facts=true&habits.charts=false&habits.trim=false&projects.limit=4&projects.descriptions=false&activity.limit=5&activity.load=300&activity.days=14&activity.filter=all&activity.visibility=all&activity.timestamps=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&config.timezone=Asia%2FJakarta)
+![Metrics](https://github.com/banghasan/banghasan/raw/main/github-metrics.svg)
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
