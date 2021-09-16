@@ -3,6 +3,7 @@
 <img align='right' src="https://i.pinimg.com/originals/66/ae/f3/66aef3b5231b5c412c4c77b3e2298ded.gif" width="230" title="Nyantaaai mas brok!">
 
 [![Visits Badge](https://badges.pufler.dev/visits/banghasan/banghasan)](https://badges.pufler.dev) ![updates](https://badges.pufler.dev/updated/banghasan/banghasan) ![repos](https://badges.pufler.dev/repos/banghasan) ![gist](https://badges.pufler.dev/gists/banghasan)
+
 ![Youtube Channel](https://img.shields.io/badge/bangHasans-red?&style=social&logo=youtube)
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCttb2hoQ07DOzsJjeLqtWsA)
 ![Twitter Follow](https://img.shields.io/twitter/follow/hasanudinhs?style=social)
