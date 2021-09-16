@@ -5,7 +5,7 @@ Contoh-contoh badges
 ## Repo
 
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/banghasan/Telegram-Lib-GAS-V2)
-![GitHub last commit](https://img.shields.io/github/last-commit/banghasan/Telegram-Lib-GAS-V2)
+![GitHub last commit](https://img.shields.io/github/last-commit/telegrambotindonesia/GAS-Lib-v3) 
 ![GitHub](https://img.shields.io/github/license/banghasan/Telegram-Lib-GAS-V2)
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/banghasan/Telegram-Lib-GAS-V2)
 ![GitHub issues](https://img.shields.io/github/issues/banghasan/Telegram-Lib-GAS-V2)
