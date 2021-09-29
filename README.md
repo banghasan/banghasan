@@ -20,13 +20,13 @@ I can't type beautiful words here. But I can write useful works. _Hopefully_...
 
 ### Blog
 <!-- BLOG-POST-LIST:START -->
+- [Telegram: Mencegah Pemaksaan Masuk Grup](https://www.banghasan.com/post/2021/09/29/cara-cegah-telegram-masuk-group/)
 - [Halo Lumpia - Membuat Bot Telegram Gratis](https://www.banghasan.com/post/2021/09/19/halo-lumpia/)
 - [appnativefy](https://www.banghasan.com/post/2021/09/07/appnativefy/)
 - [Aplikasi Camera Terbaik di Linux 2021](https://www.banghasan.com/post/2021/09/03/aplikasi-camera-terbaik/)
 - [Mendengarkan Mic ke Speaker](https://www.banghasan.com/post/2021/09/02/dengerin-mic-ke-speaker/)
 - [dekat itu ...](https://www.banghasan.com/post/2021/09/01/hati-yang-dekat/)
 - [Wuzz - Inspeksi HTTP secara Interaktif](https://www.banghasan.com/post/2021/08/30/wuzz-inspeksi-http/)
-- [tegursapa - diskusi komentar untuk website](https://www.banghasan.com/post/2021/08/19/tegursapa/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Youtube
