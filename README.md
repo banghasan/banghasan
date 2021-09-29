@@ -32,11 +32,11 @@ I can't type beautiful words here. But I can write useful works. _Hopefully_...
 ### Youtube
 
 <!-- Youtube:START -->
+- [Cara Mencegah Masuk Grup Telegram](https://www.youtube.com/watch?v=FXhowr8wSuY)
 - [Halo Lumpia - Membuat Bot Telegram mudah dengan Google Apps Script](https://www.youtube.com/watch?v=H_GBc1nfqcA)
 - [Intro Lumpia](https://www.youtube.com/watch?v=IwV6pkco_CY)
 - [belajar.id google drive menyalin memindah data backup antar akun](https://www.youtube.com/watch?v=SXx9PtiGnsk)
 - [15. Bot Telegram OCR Mengubah Foto ke Text](https://www.youtube.com/watch?v=PCctlG1dwWU)
-- [Hello Bot - 10 Menit Membuat Bot Telegram GRATIS dari Dasar](https://www.youtube.com/watch?v=_m9tqN-omCk)
 <!-- Youtube:END -->
 
 ### Language
