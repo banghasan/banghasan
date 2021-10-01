@@ -13,8 +13,9 @@
 
 I can't type beautiful words here. But I can write useful works. _Hopefully_...
 
-- 🔖 Site: https://www.banghasan.com
-- 🎬 Youtube: https://www.youtube.com/bangHasans
+- 🙋🏽 Profile: [me.banghasan.com](https://me.banghasan.com)
+- 🔖 Site: [banghasan.com](https://banghasan.com)
+- 🎬 Youtube: [bangHasans](https://youtube.com/bangHasans)
 
 ## Update
 
