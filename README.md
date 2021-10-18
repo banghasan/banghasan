@@ -21,13 +21,13 @@ I can't type beautiful words here. But I can write useful works. _Hopefully_...
 
 ### Blog
 <!-- BLOG-POST-LIST:START -->
+- [Menemukan Text pada Spreadsheet](https://banghasan.com/post/2021/10/18/gas-spreadsheet-mencari-text/)
 - [Senja](https://banghasan.com/post/2021/10/09/senja-pra-maghrib/)
 - [Bebek Goreng](https://banghasan.com/post/2021/10/02/begor-oktober/)
 - [Telegram: Mencegah Pemaksaan Masuk Grup](https://banghasan.com/post/2021/09/29/cara-cegah-telegram-masuk-group/)
 - [Halo Lumpia - Membuat Bot Telegram Gratis](https://banghasan.com/post/2021/09/19/halo-lumpia/)
 - [appnativefy](https://banghasan.com/post/2021/09/07/appnativefy/)
 - [Aplikasi Camera Terbaik di Linux 2021](https://banghasan.com/post/2021/09/03/aplikasi-camera-terbaik/)
-- [Mendengarkan Mic ke Speaker](https://banghasan.com/post/2021/09/02/dengerin-mic-ke-speaker/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Youtube
