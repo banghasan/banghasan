@@ -21,13 +21,13 @@ I can't type beautiful words here. But I can write useful works. _Hopefully_...
 
 ### Blog
 <!-- BLOG-POST-LIST:START -->
+- [VPS KVM murah berkualitas](https://banghasan.com/post/2021/10/19/vps-kvm-murmer/)
 - [Menemukan Text pada Spreadsheet](https://banghasan.com/post/2021/10/18/gas-spreadsheet-mencari-text/)
 - [PHP - Encode Decode](https://banghasan.com/post/2021/10/17/php-encode-decode/)
 - [Senja](https://banghasan.com/post/2021/10/09/senja-pra-maghrib/)
 - [Bebek Goreng](https://banghasan.com/post/2021/10/02/begor-oktober/)
 - [Telegram: Mencegah Pemaksaan Masuk Grup](https://banghasan.com/post/2021/09/29/cara-cegah-telegram-masuk-group/)
 - [Halo Lumpia - Membuat Bot Telegram Gratis](https://banghasan.com/post/2021/09/19/halo-lumpia/)
-- [appnativefy](https://banghasan.com/post/2021/09/07/appnativefy/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Youtube
