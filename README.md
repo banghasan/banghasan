@@ -22,12 +22,12 @@ I can't type beautiful words here. But I can write useful works. _Hopefully_...
 ### Blog
 <!-- BLOG-POST-LIST:START -->
 - [VPS Murmer Tahun Baru](https://banghasan.com/post/2021/12/29/vps_kvm_murmer_tahun_baru/)
+- [Informasi Masjid](https://banghasan.com/post/2021/12/27/jadwal_sholat_masjid/)
 - [VPS KVM murah lagi](https://banghasan.com/post/2021/12/03/vps_kvm_murmer_150ribu/)
 - [Referal Bot Telegram](https://banghasan.com/post/2021/11/24/lumpia-deeplink-referal/)
 - [Oprek-Oprek STB dan Router](https://banghasan.com/post/2021/11/11/oprek-stb-router/)
 - [Bot Telegram dan Regex](https://banghasan.com/post/2021/11/02/lumpia-dan-regex/)
 - [Lumpia HandleUpdate](https://banghasan.com/post/2021/10/31/lumpia-mode-development/)
-- [DNSSEC banghasan.com](https://banghasan.com/post/2021/10/24/dnssec-banghasan/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Youtube
