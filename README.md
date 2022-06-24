@@ -33,11 +33,11 @@ I can't type beautiful words here. But I can write useful works. _Hopefully_...
 ### Youtube
 
 <!-- Youtube:START -->
+- [Nyobain Telegram Premium](https://www.youtube.com/watch?v=6Nex4FeJyz0)
 - [Membuat Referal Bot Telegram  - Kuliah Singkat Tentang Deeplink](https://www.youtube.com/watch?v=XA4VGwNzeJE)
 - [Belajar Regex pada Bot Telegram - Telegraf atau Lumpia Framework](https://www.youtube.com/watch?v=AhWcDWDAMtU)
 - [Bot Telegram handleUpdate - Mode Development pada Lumpia Framework](https://www.youtube.com/watch?v=MBhSxf7Qnww)
 - [Cara Mencegah Masuk Grup Telegram](https://www.youtube.com/watch?v=FXhowr8wSuY)
-- [Halo Lumpia - Membuat Bot Telegram mudah dengan Google Apps Script](https://www.youtube.com/watch?v=H_GBc1nfqcA)
 <!-- Youtube:END -->
 
 ### Language
