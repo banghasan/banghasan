@@ -21,13 +21,13 @@ I can't type beautiful words here. But I can write useful works. _Hopefully_...
 
 ### Blog
 <!-- BLOG-POST-LIST:START -->
+- [Epic Heroes - Dinosaur](https://banghasan.com/post/2022/10/17/epic_heroes_dinosaur/)
 - [VPS Agustus 2022](https://banghasan.com/post/2022/08/15/info_vps_kvm_murmer_agustus_22/)
 - [VPS Storage Gede](https://banghasan.com/post/2022/07/27/vps_space_gede/)
 - [Bersihin Snaps Ubuntu](https://banghasan.com/post/2022/07/14/bersihin_snaps_ubuntu/)
 - [Telegram Premium](https://banghasan.com/post/2022/06/24/telegram-premium/)
 - [Info VPS Promo Juni](https://banghasan.com/post/2022/06/22/info_vps_kvm_murmer_juni_22/)
 - [Cara Mendaftar Domain GRATIS EU.ORG](https://banghasan.com/post/2022/01/19/cara-mendaftar-domain-gratis-eu-org/)
-- [VPS Benchmark](https://banghasan.com/post/2022/01/12/vps-benchmark/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Youtube
