@@ -21,13 +21,13 @@ I can't type beautiful words here. But I can write useful works. _Hopefully_...
 
 ### Blog
 <!-- BLOG-POST-LIST:START -->
+- [VPS Murah Meriah Edisi Tahun Baru 2026](https://banghasan.com/post/2026/01/25/vps-murah-edisi-tahun-baru-2026/)
 - [VPS Murah Meriah Edisi Black Friday](https://banghasan.com/post/2025/11/19/vps-murah-edisi-blackfriday-2025/)
 - [VPS Murah Meriah Edisi 11-11](https://banghasan.com/post/2025/11/05/vps-murah-edisi-11-11/)
 - [Sumpah Pemuda dan Baterai UPS](https://banghasan.com/post/2025/10/28/sumpah-pemuda-dan-baterai-ups/)
 - [VPS Murah 2025](https://banghasan.com/post/2025/10/27/vps-kvm-murah-2024/)
 - [GBE](https://banghasan.com/post/2025/09/12/gbe-1-bagian-1-menjalankan-bot-telegram/)
 - [Gowes Lagi](https://banghasan.com/post/2025/09/08/bersepeda-santai/)
-- [WFH - Work From Home](https://banghasan.com/post/2025/08/27/wfh-suasana/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Youtube
